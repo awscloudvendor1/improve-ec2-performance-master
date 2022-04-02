@@ -93,10 +93,6 @@
 
     As you can see, you can get almost 6x performance improvements if you configure your applications to make use of the higher `MTU` offered to by AWS and get more out of your EC2 instances.
 
-### Contact Us
-
-You can reach out to us to get more details through [here](https://youtube.com/c/valaxytechnologies/about).
-
 #### References
 
 1. [MTU in Linux](https://docs.aws.amazon.com/en_pv/AWSEC2/latest/UserGuide/network_mtu.html#instance-type-summary-table)
